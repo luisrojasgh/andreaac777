@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andrea Arcila
+- 👋 Hi 🤓, I’m Andrea Arcila 👩‍💻
 - 👀 I’m interested in programming 💻, music 🎶, trekking ⛰️ and beer 🍺.  
 - 🌱 I’m currently learning HTML, CSS, JS, python and Java.
 - 💞️ I’m looking to collaborate on projects for beginners.
