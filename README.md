@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andrea Arcila
-- 👀 I’m interested in music, trekking, hiking and beer.  
+- 👀 I’m interested in programming 💻, music 🎶, trekking ⛰️ and beer 🍺.  
 - 🌱 I’m currently learning HTML, CSS, JS, python and Java.
-- 💞️ I’m looking to collaborate on project for beginners.
+- 💞️ I’m looking to collaborate on projects for beginners.
 - 📫 How to reach me <br>
       andreaac777@gmail.com <br>
       andrea.arcila.c@hotmail.com <br>
